@@ -53,13 +53,19 @@ Let's deploy to our local replica.
 
 First startup the replica:
 
-````dfx start --background````
+````
+dfx start --background
+````
 If you want an extra speedy deploy:
 
-````dfx start --background --artificial-delay 0````
+````
+dfx start --background --artificial-delay 0
+````
 Then deploy the canister:
 
-````dfx deploy````
+````
+dfx deploy
+````
 
 
 ### Interacting with your canister from the web UI
