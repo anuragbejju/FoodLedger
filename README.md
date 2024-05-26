@@ -1,3 +1,9 @@
+
+
+<p align="center">
+  <img src="https://github.com/anuragbejju/FoodLedger/blob/main/docs/imgs/FoodLedger%20Logo.png" width="70" title="hover text" align="left">
+</p>
+
 # FoodLedger (Using ICP - Kybra)
 FoodLedger uses decentralized collaboration services offered by ICP (Internet Computer Protocol) to facilitate seamless communication and coordination among stakeholders, ensuring efficient resource allocation and effective response to community needs.
 
