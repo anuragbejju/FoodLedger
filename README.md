@@ -7,6 +7,11 @@
 # FoodLedger (Using ICP - Kybra)
 FoodLedger uses decentralized collaboration services offered by ICP (Internet Computer Protocol) to facilitate seamless communication and coordination among stakeholders, ensuring efficient resource allocation and effective response to community needs.
 
+### Solution and Functions:
+<p align="center">
+  <img src="https://github.com/anuragbejju/FoodLedger/blob/main/docs/imgs/FoodLedger5.jpg" width="1000" title="hover text" align="center">
+</p>
+
 ### Dependencies
 Follow the instructions exactly as stated below to avoid issues.
 You should be using a *nix environment (Linux, Mac OS, WSL if using Windows) with bash and have the following installed on your system:
